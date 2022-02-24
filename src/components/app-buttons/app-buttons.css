@@ -1,0 +1,16 @@
+.app-buttons {
+    text-align: center;
+}
+
+.button {
+    margin: 5px;
+    padding: 5px 10px;
+    background-color: rgb(138, 186, 231);
+    color: white;
+    border-radius: 5px;
+    border: 0;
+
+}
+
+
+
